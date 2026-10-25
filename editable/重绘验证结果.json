@@ -1,0 +1,316 @@
+{
+  "path": "D:\\ai_work\\mouse_skin\\这狗_mouse\\editable\\正常选择_矢量重绘.cur",
+  "platform": "win32",
+  "available": true,
+  "valid": true,
+  "checks": [
+    {
+      "requested_size": [
+        32,
+        32
+      ],
+      "expected_hotspot": [
+        2,
+        3
+      ],
+      "loaded": true,
+      "valid": true,
+      "errors": [],
+      "cleanup": {
+        "color_bitmap_deleted": true,
+        "mask_bitmap_deleted": true,
+        "cursor_destroyed": true
+      },
+      "is_cursor": true,
+      "hotspot": [
+        2,
+        3
+      ],
+      "hotspot_matches": true,
+      "color_bitmap": {
+        "width": 32,
+        "height": 32,
+        "bit_count": 32
+      },
+      "mask_bitmap": {
+        "width": 32,
+        "height": 32,
+        "bit_count": 1
+      },
+      "actual_size": [
+        32,
+        32
+      ],
+      "size_matches": true,
+      "hotspot_in_bounds": true
+    },
+    {
+      "requested_size": [
+        48,
+        48
+      ],
+      "expected_hotspot": [
+        3,
+        4
+      ],
+      "loaded": true,
+      "valid": true,
+      "errors": [],
+      "cleanup": {
+        "color_bitmap_deleted": true,
+        "mask_bitmap_deleted": true,
+        "cursor_destroyed": true
+      },
+      "is_cursor": true,
+      "hotspot": [
+        3,
+        4
+      ],
+      "hotspot_matches": true,
+      "color_bitmap": {
+        "width": 48,
+        "height": 48,
+        "bit_count": 32
+      },
+      "mask_bitmap": {
+        "width": 48,
+        "height": 48,
+        "bit_count": 1
+      },
+      "actual_size": [
+        48,
+        48
+      ],
+      "size_matches": true,
+      "hotspot_in_bounds": true
+    },
+    {
+      "requested_size": [
+        64,
+        64
+      ],
+      "expected_hotspot": [
+        4,
+        6
+      ],
+      "loaded": true,
+      "valid": true,
+      "errors": [],
+      "cleanup": {
+        "color_bitmap_deleted": true,
+        "mask_bitmap_deleted": true,
+        "cursor_destroyed": true
+      },
+      "is_cursor": true,
+      "hotspot": [
+        4,
+        6
+      ],
+      "hotspot_matches": true,
+      "color_bitmap": {
+        "width": 64,
+        "height": 64,
+        "bit_count": 32
+      },
+      "mask_bitmap": {
+        "width": 64,
+        "height": 64,
+        "bit_count": 1
+      },
+      "actual_size": [
+        64,
+        64
+      ],
+      "size_matches": true,
+      "hotspot_in_bounds": true
+    },
+    {
+      "requested_size": [
+        96,
+        96
+      ],
+      "expected_hotspot": [
+        6,
+        9
+      ],
+      "loaded": true,
+      "valid": true,
+      "errors": [],
+      "cleanup": {
+        "color_bitmap_deleted": true,
+        "mask_bitmap_deleted": true,
+        "cursor_destroyed": true
+      },
+      "is_cursor": true,
+      "hotspot": [
+        6,
+        9
+      ],
+      "hotspot_matches": true,
+      "color_bitmap": {
+        "width": 96,
+        "height": 96,
+        "bit_count": 32
+      },
+      "mask_bitmap": {
+        "width": 96,
+        "height": 96,
+        "bit_count": 1
+      },
+      "actual_size": [
+        96,
+        96
+      ],
+      "size_matches": true,
+      "hotspot_in_bounds": true
+    },
+    {
+      "requested_size": [
+        128,
+        128
+      ],
+      "expected_hotspot": [
+        8,
+        12
+      ],
+      "loaded": true,
+      "valid": true,
+      "errors": [],
+      "cleanup": {
+        "color_bitmap_deleted": true,
+        "mask_bitmap_deleted": true,
+        "cursor_destroyed": true
+      },
+      "is_cursor": true,
+      "hotspot": [
+        8,
+        12
+      ],
+      "hotspot_matches": true,
+      "color_bitmap": {
+        "width": 128,
+        "height": 128,
+        "bit_count": 32
+      },
+      "mask_bitmap": {
+        "width": 128,
+        "height": 128,
+        "bit_count": 1
+      },
+      "actual_size": [
+        128,
+        128
+      ],
+      "size_matches": true,
+      "hotspot_in_bounds": true
+    }
+  ],
+  "errors": [],
+  "inspection": {
+    "type": "CUR",
+    "size_bytes": 136606,
+    "image_count": 5,
+    "images": [
+      {
+        "index": 0,
+        "width": 32,
+        "height": 32,
+        "hotspot": [
+          2,
+          3
+        ],
+        "encoding": "BGRA_DIB",
+        "bit_count": 32,
+        "offset": 86,
+        "resource_size": 4264,
+        "and_mask_stride": 4,
+        "transparent_pixels": 439,
+        "partial_alpha_pixels": 295,
+        "visible_pixels": 585,
+        "masked_pixels": 439,
+        "alpha_mask_consistent": true,
+        "transparent_rgb_zero": true
+      },
+      {
+        "index": 1,
+        "width": 48,
+        "height": 48,
+        "hotspot": [
+          3,
+          4
+        ],
+        "encoding": "BGRA_DIB",
+        "bit_count": 32,
+        "offset": 4350,
+        "resource_size": 9640,
+        "and_mask_stride": 8,
+        "transparent_pixels": 1099,
+        "partial_alpha_pixels": 478,
+        "visible_pixels": 1205,
+        "masked_pixels": 1099,
+        "alpha_mask_consistent": true,
+        "transparent_rgb_zero": true
+      },
+      {
+        "index": 2,
+        "width": 64,
+        "height": 64,
+        "hotspot": [
+          4,
+          6
+        ],
+        "encoding": "BGRA_DIB",
+        "bit_count": 32,
+        "offset": 13990,
+        "resource_size": 16936,
+        "and_mask_stride": 8,
+        "transparent_pixels": 2070,
+        "partial_alpha_pixels": 654,
+        "visible_pixels": 2026,
+        "masked_pixels": 2070,
+        "alpha_mask_consistent": true,
+        "transparent_rgb_zero": true
+      },
+      {
+        "index": 3,
+        "width": 96,
+        "height": 96,
+        "hotspot": [
+          6,
+          9
+        ],
+        "encoding": "BGRA_DIB",
+        "bit_count": 32,
+        "offset": 30926,
+        "resource_size": 38056,
+        "and_mask_stride": 12,
+        "transparent_pixels": 4915,
+        "partial_alpha_pixels": 1001,
+        "visible_pixels": 4301,
+        "masked_pixels": 4915,
+        "alpha_mask_consistent": true,
+        "transparent_rgb_zero": true
+      },
+      {
+        "index": 4,
+        "width": 128,
+        "height": 128,
+        "hotspot": [
+          8,
+          12
+        ],
+        "encoding": "BGRA_DIB",
+        "bit_count": 32,
+        "offset": 68982,
+        "resource_size": 67624,
+        "and_mask_stride": 16,
+        "transparent_pixels": 8941,
+        "partial_alpha_pixels": 1372,
+        "visible_pixels": 7443,
+        "masked_pixels": 8941,
+        "alpha_mask_consistent": true,
+        "transparent_rgb_zero": true
+      }
+    ]
+  }
+}

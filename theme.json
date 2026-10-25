@@ -1,0 +1,296 @@
+{
+  "name": "这狗",
+  "version": "1.0-static-reference",
+  "mapping": {
+    "Arrow": "cursors/01_正常选择.cur",
+    "Help": "cursors/02_帮助选择.cur",
+    "AppStarting": "cursors/03_后台运行.cur",
+    "Wait": "cursors/04_忙.cur",
+    "Crosshair": "cursors/05_精确选择.cur",
+    "IBeam": "cursors/06_文本选择.cur",
+    "NWPen": "cursors/07_手写.cur",
+    "No": "cursors/08_不可用.cur",
+    "SizeNS": "cursors/09_垂直调整.cur",
+    "SizeWE": "cursors/10_水平调整.cur",
+    "SizeNWSE": "cursors/11_对角线调整1.cur",
+    "SizeNESW": "cursors/12_对角线调整2.cur",
+    "SizeAll": "cursors/13_移动.cur",
+    "UpArrow": "cursors/14_候选.cur",
+    "Hand": "cursors/15_链接选择.cur",
+    "Pin": "cursors/16_位置选择.cur",
+    "Person": "cursors/17_人员选择.cur"
+  },
+  "sizes": [
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "notes": "Original sheet artwork extracted; static reconstruction, not original animated files. Help/Pin/Person reuse reference designs.",
+  "source_url": "https://www.xiaohongshu.com/discovery/item/696b5835000000000e00c7a4",
+  "source_author": "你自己做吧",
+  "artwork_provenance": {
+    "normal": {
+      "name": "正常选择",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        37,
+        426,
+        258,
+        641
+      ],
+      "source_hotspot": [
+        47,
+        441
+      ],
+      "method": "original sheet extraction"
+    },
+    "text": {
+      "name": "文本选择",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        303,
+        418,
+        519,
+        636
+      ],
+      "source_hotspot": [
+        318,
+        461
+      ],
+      "method": "original sheet extraction"
+    },
+    "link": {
+      "name": "链接选择",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        552,
+        424,
+        772,
+        635
+      ],
+      "source_hotspot": [
+        564,
+        436
+      ],
+      "method": "original sheet extraction"
+    },
+    "working": {
+      "name": "后台运行",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        815,
+        437,
+        1040,
+        634
+      ],
+      "source_hotspot": [
+        827,
+        450
+      ],
+      "method": "original sheet extraction"
+    },
+    "move": {
+      "name": "移动",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        64,
+        701,
+        267,
+        921
+      ],
+      "source_hotspot": [
+        164,
+        814
+      ],
+      "method": "original sheet extraction"
+    },
+    "vertical": {
+      "name": "垂直调整",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        339,
+        698,
+        529,
+        928
+      ],
+      "source_hotspot": [
+        433,
+        815
+      ],
+      "method": "original sheet extraction"
+    },
+    "alternate": {
+      "name": "候选",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        567,
+        702,
+        792,
+        919
+      ],
+      "source_hotspot": [
+        578,
+        714
+      ],
+      "method": "original sheet extraction"
+    },
+    "precision": {
+      "name": "精确选择",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        822,
+        701,
+        1051,
+        923
+      ],
+      "source_hotspot": [
+        853,
+        733
+      ],
+      "method": "original sheet extraction"
+    },
+    "diagonal1": {
+      "name": "对角线调整1",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        59,
+        985,
+        271,
+        1210
+      ],
+      "source_hotspot": [
+        165,
+        1100
+      ],
+      "method": "original sheet extraction"
+    },
+    "unavailable": {
+      "name": "不可用",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        315,
+        993,
+        540,
+        1210
+      ],
+      "source_hotspot": [
+        348,
+        1025
+      ],
+      "method": "original sheet extraction"
+    },
+    "busy": {
+      "name": "忙",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        575,
+        1000,
+        799,
+        1208
+      ],
+      "source_hotspot": [
+        685,
+        1111
+      ],
+      "method": "original sheet extraction"
+    },
+    "pen": {
+      "name": "手写",
+      "source": "reference/reference_02.webp",
+      "crop": [
+        811,
+        986,
+        1028,
+        1209
+      ],
+      "source_hotspot": [
+        862,
+        1000
+      ],
+      "method": "original sheet extraction"
+    },
+    "extra1": {
+      "name": "备选1_耳机",
+      "source": "reference/reference_03.webp",
+      "crop": [
+        110,
+        470,
+        337,
+        692
+      ],
+      "source_hotspot": [
+        121,
+        482
+      ],
+      "method": "original sheet extraction"
+    },
+    "extra2": {
+      "name": "备选2_甜筒",
+      "source": "reference/reference_03.webp",
+      "crop": [
+        420,
+        470,
+        644,
+        695
+      ],
+      "source_hotspot": [
+        432,
+        482
+      ],
+      "method": "original sheet extraction"
+    },
+    "extra3": {
+      "name": "备选3_抱抱",
+      "source": "reference/reference_03.webp",
+      "crop": [
+        728,
+        469,
+        965,
+        700
+      ],
+      "source_hotspot": [
+        741,
+        481
+      ],
+      "method": "original sheet extraction"
+    },
+    "extra4": {
+      "name": "备选4_表情",
+      "source": "reference/reference_03.webp",
+      "crop": [
+        265,
+        821,
+        492,
+        1040
+      ],
+      "source_hotspot": [
+        275,
+        834
+      ],
+      "method": "original sheet extraction"
+    },
+    "extra5": {
+      "name": "备选5_张嘴",
+      "source": "reference/reference_03.webp",
+      "crop": [
+        609,
+        831,
+        826,
+        1046
+      ],
+      "source_hotspot": [
+        620,
+        846
+      ],
+      "method": "original sheet extraction"
+    },
+    "horizontal": {
+      "method": "cloud markers rotated 90 degrees; original dog unchanged"
+    },
+    "diagonal2": {
+      "method": "cloud markers rotated 90 degrees; original dog unchanged"
+    }
+  }
+}
