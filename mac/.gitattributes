@@ -1,0 +1,4 @@
+# Preserve generated plist bytes and manifest checksums on every platform.
+* text=auto eol=lf
+*.png binary
+*.zip binary

@@ -1,0 +1,109 @@
+{
+  "ok": true,
+  "package": "D:\\ai_work\\mouse_skin\\这狗_mouse\\mac",
+  "scope": "plist schema, official role IDs, PNG pixels, dimensions, and hotspots; no macOS runtime test",
+  "errors": [],
+  "themes": [
+    {
+      "file": "这狗_mac.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "normal",
+      "identifier": "local.thisdog.macos.standard",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "这狗_mac_大号.cape",
+      "ok": true,
+      "errors": [],
+      "points": 48,
+      "arrow_asset": "normal",
+      "identifier": "local.thisdog.macos.large",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_备选1_耳机.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "extra1",
+      "identifier": "local.thisdog.macos.alternative1",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_备选2_甜筒.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "extra2",
+      "identifier": "local.thisdog.macos.alternative2",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_备选3_抱抱.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "extra3",
+      "identifier": "local.thisdog.macos.alternative3",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_备选4_表情.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "extra4",
+      "identifier": "local.thisdog.macos.alternative4",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_备选5_张嘴.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "extra5",
+      "identifier": "local.thisdog.macos.alternative5",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    },
+    {
+      "file": "备选/这狗_mac_矢量重绘.cape",
+      "ok": true,
+      "errors": [],
+      "points": 32,
+      "arrow_asset": "normal_redrawn",
+      "identifier": "local.thisdog.macos.vector",
+      "cursor_count": 36,
+      "representation_count": 72,
+      "pixel_checks": "exact RGBA bytes against LANCZOS source resize",
+      "hotspot_tolerance": 1e-06
+    }
+  ],
+  "asset_count": 20,
+  "validated_asset_count": 20,
+  "role_count": 36,
+  "cape_count": 8,
+  "theme_count": 8
+}

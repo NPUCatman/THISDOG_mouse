@@ -1,0 +1,242 @@
+{
+  "normal": {
+    "file": "assets/normal.png",
+    "size": [
+      229,
+      229
+    ],
+    "hotspot": [
+      14,
+      22
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "text": {
+    "file": "assets/text.png",
+    "size": [
+      226,
+      226
+    ],
+    "hotspot": [
+      20,
+      47
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "link": {
+    "file": "assets/link.png",
+    "size": [
+      228,
+      228
+    ],
+    "hotspot": [
+      16,
+      20
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "working": {
+    "file": "assets/working.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      16,
+      31
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "move": {
+    "file": "assets/move.png",
+    "size": [
+      228,
+      228
+    ],
+    "hotspot": [
+      112,
+      117
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "vertical": {
+    "file": "assets/vertical.png",
+    "size": [
+      238,
+      238
+    ],
+    "hotspot": [
+      118,
+      121
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "alternate": {
+    "file": "assets/alternate.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      15,
+      20
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "precision": {
+    "file": "assets/precision.png",
+    "size": [
+      237,
+      237
+    ],
+    "hotspot": [
+      35,
+      39
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "diagonal1": {
+    "file": "assets/diagonal1.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      116,
+      119
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "unavailable": {
+    "file": "assets/unavailable.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      37,
+      40
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "busy": {
+    "file": "assets/busy.png",
+    "size": [
+      232,
+      232
+    ],
+    "hotspot": [
+      114,
+      123
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "pen": {
+    "file": "assets/pen.png",
+    "size": [
+      231,
+      231
+    ],
+    "hotspot": [
+      58,
+      18
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "extra1": {
+    "file": "assets/extra1.png",
+    "size": [
+      235,
+      235
+    ],
+    "hotspot": [
+      15,
+      18
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "extra2": {
+    "file": "assets/extra2.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      16,
+      16
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "extra3": {
+    "file": "assets/extra3.png",
+    "size": [
+      245,
+      245
+    ],
+    "hotspot": [
+      17,
+      19
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "extra4": {
+    "file": "assets/extra4.png",
+    "size": [
+      235,
+      235
+    ],
+    "hotspot": [
+      14,
+      21
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "extra5": {
+    "file": "assets/extra5.png",
+    "size": [
+      225,
+      225
+    ],
+    "hotspot": [
+      15,
+      20
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "horizontal": {
+    "file": "assets/horizontal.png",
+    "size": [
+      238,
+      238
+    ],
+    "hotspot": [
+      118,
+      121
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "diagonal2": {
+    "file": "assets/diagonal2.png",
+    "size": [
+      233,
+      233
+    ],
+    "hotspot": [
+      116,
+      119
+    ],
+    "origin": "Existing This Dog transparent artwork"
+  },
+  "normal_redrawn": {
+    "file": "assets/normal_redrawn.png",
+    "size": [
+      229,
+      229
+    ],
+    "hotspot": [
+      14,
+      22
+    ],
+    "origin": "Existing hand-edited vector redraw"
+  }
+}

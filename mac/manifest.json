@@ -1,0 +1,471 @@
+{
+  "name": "这狗 · Mac / Mousecape",
+  "format": "Mousecape plist 2.0",
+  "static": true,
+  "scales": [
+    1,
+    2
+  ],
+  "themes": [
+    {
+      "file": "这狗_mac.cape",
+      "name": "这狗 · Mac 标准",
+      "identifier": "local.thisdog.macos.standard",
+      "points": 32,
+      "arrow_asset": "normal",
+      "sha256": "2c78ce63480a5fbdbfc065f67cc7fe8218b9c967ad3a4243d355eae649fc9196"
+    },
+    {
+      "file": "这狗_mac_大号.cape",
+      "name": "这狗 · Mac 大号",
+      "identifier": "local.thisdog.macos.large",
+      "points": 48,
+      "arrow_asset": "normal",
+      "sha256": "41115d73a0ffbe5e8b4cbdacbc2e7533a9e4be25489b80ae4f8b6a00f00153d5"
+    },
+    {
+      "file": "备选/这狗_mac_备选1_耳机.cape",
+      "name": "这狗 · Mac 耳机",
+      "identifier": "local.thisdog.macos.alternative1",
+      "points": 32,
+      "arrow_asset": "extra1",
+      "sha256": "36fbf37c26b88d13ffe9348f6380c2cc3ff26df09ae1bf9b0fdb26d550f5e484"
+    },
+    {
+      "file": "备选/这狗_mac_备选2_甜筒.cape",
+      "name": "这狗 · Mac 甜筒",
+      "identifier": "local.thisdog.macos.alternative2",
+      "points": 32,
+      "arrow_asset": "extra2",
+      "sha256": "a8f2ddac33cf8c178ae3eb5637505283effb3977a555afb2c045e702bf5b5e25"
+    },
+    {
+      "file": "备选/这狗_mac_备选3_抱抱.cape",
+      "name": "这狗 · Mac 抱抱",
+      "identifier": "local.thisdog.macos.alternative3",
+      "points": 32,
+      "arrow_asset": "extra3",
+      "sha256": "8586a5496bfc3e6524b105e56afe0f151c4ba63dd9765ce25ca28f0898b05249"
+    },
+    {
+      "file": "备选/这狗_mac_备选4_表情.cape",
+      "name": "这狗 · Mac 表情",
+      "identifier": "local.thisdog.macos.alternative4",
+      "points": 32,
+      "arrow_asset": "extra4",
+      "sha256": "c8ac17cb5005c1ac4368d5aae38d8ad316cd2397a6f7ef244b035beb63c810da"
+    },
+    {
+      "file": "备选/这狗_mac_备选5_张嘴.cape",
+      "name": "这狗 · Mac 张嘴",
+      "identifier": "local.thisdog.macos.alternative5",
+      "points": 32,
+      "arrow_asset": "extra5",
+      "sha256": "5c59430e7f44a437b2a087df60018f8cb3111cf19a86089d79a11198a9a18730"
+    },
+    {
+      "file": "备选/这狗_mac_矢量重绘.cape",
+      "name": "这狗 · Mac 矢量重绘",
+      "identifier": "local.thisdog.macos.vector",
+      "points": 32,
+      "arrow_asset": "normal_redrawn",
+      "sha256": "188d77f4f699ce53044adb3911be19cc0b36e1746c384251dd230bac212d0422"
+    }
+  ],
+  "roles": {
+    "com.apple.coregraphics.Arrow": {
+      "name": "正常选择",
+      "asset": "normal"
+    },
+    "com.apple.coregraphics.IBeam": {
+      "name": "文本选择",
+      "asset": "text"
+    },
+    "com.apple.coregraphics.IBeamXOR": {
+      "name": "反色文本选择",
+      "asset": "text"
+    },
+    "com.apple.coregraphics.Move": {
+      "name": "移动",
+      "asset": "move"
+    },
+    "com.apple.coregraphics.ArrowCtx": {
+      "name": "上下文箭头",
+      "asset": "normal"
+    },
+    "com.apple.coregraphics.Wait": {
+      "name": "忙碌等待",
+      "asset": "busy"
+    },
+    "com.apple.cursor.2": {
+      "name": "链接选择",
+      "asset": "link"
+    },
+    "com.apple.cursor.3": {
+      "name": "不可用",
+      "asset": "unavailable"
+    },
+    "com.apple.cursor.4": {
+      "name": "后台运行",
+      "asset": "working"
+    },
+    "com.apple.cursor.7": {
+      "name": "精确选择",
+      "asset": "precision"
+    },
+    "com.apple.cursor.8": {
+      "name": "精确选择备用",
+      "asset": "precision"
+    },
+    "com.apple.cursor.11": {
+      "name": "抓取中",
+      "asset": "move"
+    },
+    "com.apple.cursor.12": {
+      "name": "可抓取",
+      "asset": "move"
+    },
+    "com.apple.cursor.13": {
+      "name": "指向链接",
+      "asset": "link"
+    },
+    "com.apple.cursor.17": {
+      "name": "向西调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.18": {
+      "name": "向东调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.19": {
+      "name": "水平调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.20": {
+      "name": "反色单元格选择",
+      "asset": "precision"
+    },
+    "com.apple.cursor.21": {
+      "name": "向北调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.22": {
+      "name": "向南调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.23": {
+      "name": "垂直调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.27": {
+      "name": "窗口向东调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.28": {
+      "name": "窗口水平调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.29": {
+      "name": "窗口向东北调整",
+      "asset": "diagonal1"
+    },
+    "com.apple.cursor.30": {
+      "name": "窗口东北—西南调整",
+      "asset": "diagonal1"
+    },
+    "com.apple.cursor.31": {
+      "name": "窗口向北调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.32": {
+      "name": "窗口垂直调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.33": {
+      "name": "窗口向西北调整",
+      "asset": "diagonal2"
+    },
+    "com.apple.cursor.34": {
+      "name": "窗口西北—东南调整",
+      "asset": "diagonal2"
+    },
+    "com.apple.cursor.35": {
+      "name": "窗口向东南调整",
+      "asset": "diagonal2"
+    },
+    "com.apple.cursor.36": {
+      "name": "窗口向南调整",
+      "asset": "vertical"
+    },
+    "com.apple.cursor.37": {
+      "name": "窗口向西南调整",
+      "asset": "diagonal1"
+    },
+    "com.apple.cursor.38": {
+      "name": "窗口向西调整",
+      "asset": "horizontal"
+    },
+    "com.apple.cursor.39": {
+      "name": "多向调整",
+      "asset": "move"
+    },
+    "com.apple.cursor.40": {
+      "name": "帮助选择",
+      "asset": "alternate"
+    },
+    "com.apple.cursor.41": {
+      "name": "单元格选择",
+      "asset": "precision"
+    }
+  },
+  "assets": {
+    "normal": {
+      "file": "assets/normal.png",
+      "size": [
+        229,
+        229
+      ],
+      "hotspot": [
+        14,
+        22
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "text": {
+      "file": "assets/text.png",
+      "size": [
+        226,
+        226
+      ],
+      "hotspot": [
+        20,
+        47
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "link": {
+      "file": "assets/link.png",
+      "size": [
+        228,
+        228
+      ],
+      "hotspot": [
+        16,
+        20
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "working": {
+      "file": "assets/working.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        16,
+        31
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "move": {
+      "file": "assets/move.png",
+      "size": [
+        228,
+        228
+      ],
+      "hotspot": [
+        112,
+        117
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "vertical": {
+      "file": "assets/vertical.png",
+      "size": [
+        238,
+        238
+      ],
+      "hotspot": [
+        118,
+        121
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "alternate": {
+      "file": "assets/alternate.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        15,
+        20
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "precision": {
+      "file": "assets/precision.png",
+      "size": [
+        237,
+        237
+      ],
+      "hotspot": [
+        35,
+        39
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "diagonal1": {
+      "file": "assets/diagonal1.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        116,
+        119
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "unavailable": {
+      "file": "assets/unavailable.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        37,
+        40
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "busy": {
+      "file": "assets/busy.png",
+      "size": [
+        232,
+        232
+      ],
+      "hotspot": [
+        114,
+        123
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "pen": {
+      "file": "assets/pen.png",
+      "size": [
+        231,
+        231
+      ],
+      "hotspot": [
+        58,
+        18
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "extra1": {
+      "file": "assets/extra1.png",
+      "size": [
+        235,
+        235
+      ],
+      "hotspot": [
+        15,
+        18
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "extra2": {
+      "file": "assets/extra2.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        16,
+        16
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "extra3": {
+      "file": "assets/extra3.png",
+      "size": [
+        245,
+        245
+      ],
+      "hotspot": [
+        17,
+        19
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "extra4": {
+      "file": "assets/extra4.png",
+      "size": [
+        235,
+        235
+      ],
+      "hotspot": [
+        14,
+        21
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "extra5": {
+      "file": "assets/extra5.png",
+      "size": [
+        225,
+        225
+      ],
+      "hotspot": [
+        15,
+        20
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "horizontal": {
+      "file": "assets/horizontal.png",
+      "size": [
+        238,
+        238
+      ],
+      "hotspot": [
+        118,
+        121
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "diagonal2": {
+      "file": "assets/diagonal2.png",
+      "size": [
+        233,
+        233
+      ],
+      "hotspot": [
+        116,
+        119
+      ],
+      "origin": "Existing This Dog transparent artwork"
+    },
+    "normal_redrawn": {
+      "file": "assets/normal_redrawn.png",
+      "size": [
+        229,
+        229
+      ],
+      "hotspot": [
+        14,
+        22
+      ],
+      "origin": "Existing hand-edited vector redraw"
+    }
+  },
+  "source_url": "https://www.xiaohongshu.com/discovery/item/696b5835000000000e00c7a4",
+  "format_sources": [
+    "https://github.com/alexzielenski/Mousecape/blob/master/Mousecape/com.maxrudberg.svanslosbluehazard.cape",
+    "https://github.com/alexzielenski/Mousecape/blob/master/Mousecape/mousecloak/MCDefs.m",
+    "https://github.com/alexzielenski/Mousecape/blob/master/Mousecape/mousecloak/apply.m"
+  ],
+  "unmapped": "Other macOS cursor roles and application-defined cursors retain their own appearance. No exact macOS equivalents for Windows handwriting/pin/person roles.",
+  "runtime_test": "Generated and structurally verified on Windows; not applied on macOS hardware."
+}
